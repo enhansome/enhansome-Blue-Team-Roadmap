@@ -1,0 +1,404 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🗺️ The 10-Phase Overview"
+    },
+    {
+      "description": "Every security alert involves network traffic. You cannot investigate threats, write detection rules, or analyze incidents without understanding how data moves across networks.",
+      "items": [],
+      "title": "🌐 Phase 1: Networking Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What to Learn"
+    },
+    {
+      "description": "You need to memorize these. They appear in every SOC investigation:",
+      "items": [],
+      "title": "1.3 Critical Protocols & Ports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🆓 Free Learning Resources"
+    },
+    {
+      "description": "Over 90% of enterprise environments run Windows with Active Directory. As a SOC analyst, Windows Event Logs will be your primary data source. Understanding how Windows works internally is not optional, it is the foundation of your daily work.",
+      "items": [],
+      "title": "🖥️ Phase 2: Windows Essentials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What to Learn"
+    },
+    {
+      "description": "Essential commands every SOC analyst uses:",
+      "items": [],
+      "title": "2.3 PowerShell for Investigation"
+    },
+    {
+      "description": "Sysmon is a Windows system service that provides detailed telemetry on process creation, network connections, file creation, and more. It is essential for any SOC.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Install with SwiftOnSecurity's Sysmon config",
+          "description": "for a well-tuned baseline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T17:26:43Z",
+            "owner": "SwiftOnSecurity",
+            "repo": "sysmon-config",
+            "stars": 5619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alternative: Olaf Hartong's Sysmon Modular config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-10T00:47:52Z",
+            "owner": "olafhartong",
+            "repo": "sysmon-modular",
+            "stars": 3111
+          }
+        }
+      ],
+      "title": "2.4 Sysmon"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🆓 Free Learning Resources"
+    },
+    {
+      "description": "Most security tools, servers, and appliances run Linux. You need terminal fluency, the ability to navigate, search, process text, and automate tasks from the command line.",
+      "items": [],
+      "title": "🐧 Phase 3: Linux Command Line"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What to Learn"
+    },
+    {
+      "description": "Navigation & File System:\nFile Operations:\nText Processing (used daily in log analysis):\nSystem Information:\nPiping & Chaining (combine commands):",
+      "items": [],
+      "title": "3.1 Essential Commands"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.2 Important Directories for Blue Team"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🆓 Free Learning Resources"
+    },
+    {
+      "description": "You don't need to become a software engineer. You need functional scripting, the ability to parse logs, call APIs, automate repetitive tasks, and build small tools.",
+      "items": [],
+      "title": "🐍 Phase 4: Scripting & Automation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What to Learn"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.2 Bash Scripting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.3 PowerShell Scripting"
+    },
+    {
+      "description": "Many SIEM query languages are SQL-like. Learn:",
+      "items": [],
+      "title": "4.4 SQL Basics"
+    },
+    {
+      "description": "Used constantly in detection rules, log analysis, and SIEM queries.\nPractice at: regex101.com, paste a log sample and build patterns.",
+      "items": [],
+      "title": "4.5 Regular Expressions (Regex)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🆓 Free Learning Resources"
+    },
+    {
+      "description": "This phase covers the core security concepts that underpin everything a Blue Team professional does. These concepts appear in every certification exam, every job interview, and every day on the SOC floor.",
+      "items": [],
+      "title": "🔒 Phase 5: Security Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "What to Learn"
+    },
+    {
+      "description": "Every SOC analyst must understand these attack categories:",
+      "items": [],
+      "title": "5.2 Common Attack Types"
+    },
+    {
+      "description": "Cyber Kill Chain (Lockheed Martin):\nMITRE ATT&CK Framework: The industry standard for categorizing adversary behavior. Contains 14 tactics with 200+ techniques.\nStart exploring: attack.mitre.org",
+      "items": [],
+      "title": "5.3 The Cyber Kill Chain & MITRE ATT&CK"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5.4 Security Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🆓 Free Learning Resources"
+    },
+    {
+      "description": "These are the tools you'll use every day in a SOC role. Focus on SIEM first, then expand to EDR, network detection, and forensics.",
+      "items": [],
+      "title": "🔧 Phase 6: Blue Team Tools"
+    },
+    {
+      "description": "SIEM is your primary workspace as a SOC analyst. It collects logs from every system, correlates events, and generates alerts.\nStart with Splunk, it's in the most job postings. Then learn KQL for Sentinel.\nSplunk SPL Examples:\nKQL (Microsoft Sentinel) Examples:",
+      "items": [],
+      "title": "6.1 SIEM (Security Information and Event Management)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "6.2 EDR / XDR (Endpoint Detection & Response)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "6.3 Network Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "6.4 Forensics & Incident Response"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "6.5 Detection & Threat Intelligence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "6.6 SOAR (Security Orchestration, Automation & Response)"
+    },
+    {
+      "description": "Certifications serve two purposes: passing HR filters and proving technical competence. The optimal path addresses both.",
+      "items": [],
+      "title": "📜 Phase 7: Certifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "7.1 Recommended Certification Path"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "7.2 Entry-Level Certifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "7.3 Mid-Level Certifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "7.4 Advanced Certifications"
+    },
+    {
+      "description": "Reading about security is not the same as doing it. These platforms provide simulated environments where theory becomes muscle memory.",
+      "items": [],
+      "title": "🏋️ Phase 8: Hands-On Practice"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "8.1 Practice Platforms (Ranked by Learning Order)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "8.2 Recommended Learning Path (Step-by-Step)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "8.3 Additional Practice Resources"
+    },
+    {
+      "description": "Certifications prove knowledge. Projects prove you can do the work. Hiring managers consistently rank demonstrated practical skills above certification counts.",
+      "items": [],
+      "title": "📁 Phase 9: Build Your Portfolio"
+    },
+    {
+      "description": "Build a home lab that mirrors real enterprise environments:\nArchitecture Diagram:",
+      "items": [],
+      "title": "9.1 Home Lab Setup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Adversary Emulation with Atomic Red Team",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Install Atomic Red Team",
+              "description": "on a test machine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-10T11:19:31Z",
+                "owner": "redcanaryco",
+                "repo": "atomic-red-team",
+                "stars": 12393
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open-Source Detection Rule Contributions",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contribute to SigmaHQ/sigma",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T18:39:07Z",
+                "owner": "SigmaHQ",
+                "repo": "sigma",
+                "stars": 10880
+              }
+            }
+          ]
+        }
+      ],
+      "title": "9.2 Six Projects That Get Interviews"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "9.3 Where to Publish"
+    },
+    {
+      "description": "The cybersecurity talent gap is real, 4.8 million positions unfilled globally. But competition for entry-level roles is fierce because many applicants lack practical demonstration of skills. Here's how to stand out.",
+      "items": [],
+      "title": "🚀 Phase 10: Get Hired"
+    },
+    {
+      "description": "SOC analyst interviews typically have three parts: behavioral/cultural fit, foundational concepts, and scenario-based investigations. Scenario questions carry the most weight because they reveal how you actually think and work under pressure. Lab and CTF experiences absolutely count as real experience.",
+      "items": [],
+      "title": "10.4 Interview Preparation"
+    },
+    {
+      "description": "These test whether you understand the basics. Expect them early in the interview.",
+      "items": [],
+      "title": "Foundational Concept Questions"
+    },
+    {
+      "description": "These test your understanding of how security operations are structured.",
+      "items": [],
+      "title": "Framework & Methodology Questions"
+    },
+    {
+      "description": "These test your hands-on skills with the tools you will use daily.",
+      "items": [],
+      "title": "Tools & Technical Questions"
+    },
+    {
+      "description": "These carry the most weight. Interviewers want to see your thought process, not a perfect answer.\nScenario 1: Phishing Investigation\nScenario 2: Brute Force Detection\nScenario 3: Suspicious Process Execution\nScenario 4: Lateral Movement Detection\nScenario 5: Ransomware Response\nScenario 6: Insider Threat\nScenario 7: SIEM Down During an Incident",
+      "items": [],
+      "title": "Scenario-Based Questions (Most Important)"
+    },
+    {
+      "description": "Don't underestimate these. They assess culture fit and how you handle real-world SOC pressures.",
+      "items": [],
+      "title": "Behavioral Questions"
+    },
+    {
+      "description": "DNS Tunneling Detection:\nMalicious Binary Analysis (Basic):\nCompromised Account Investigation:",
+      "items": [],
+      "title": "Investigation Methodologies to Practice"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "10.5 Interview Resources"
+    },
+    {
+      "description": "Typical Career Progression:\n",
+      "items": [],
+      "title": "🎯 Defensive Security Career Paths"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Free Resources Directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "YouTube Channels"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Podcasts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub Repositories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communities"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:43.036Z",
+    "original_repository": "keraattin/Blue-Team-Roadmap",
+    "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
+    "enhanced_repository": "enhansome/enhansome-Blue-Team-Roadmap",
+    "enhanced_repository_description": null,
+    "title": "Awesome Blue Team Roadmap with stars"
+  }
+}
