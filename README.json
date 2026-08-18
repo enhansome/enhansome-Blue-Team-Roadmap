@@ -54,7 +54,7 @@
             "last_commit": "2024-07-03T17:26:43Z",
             "owner": "SwiftOnSecurity",
             "repo": "sysmon-config",
-            "stars": 5622
+            "stars": 5624
           }
         },
         {
@@ -275,10 +275,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-17T02:47:08Z",
+                "last_commit": "2026-08-17T18:03:26Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12413
+                "stars": 12417
               }
             }
           ]
@@ -299,7 +299,7 @@
                 "last_commit": "2026-08-15T02:01:40Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10894
+                "stars": 10899
               }
             }
           ]
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:48:45.564Z",
+    "last_updated": "2026-08-18T02:44:14.076Z",
     "original_repository": "keraattin/Blue-Team-Roadmap",
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
     "enhanced_repository": "enhansome/enhansome-Blue-Team-Roadmap",
