@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-17T18:03:26Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12417
+                "stars": 12422
               }
             }
           ]
@@ -296,10 +296,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T02:01:40Z",
+                "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10899
+                "stars": 10903
               }
             }
           ]
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:44:14.076Z",
+    "last_updated": "2026-08-19T02:45:33.447Z",
     "original_repository": "keraattin/Blue-Team-Roadmap",
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
     "enhanced_repository": "enhansome/enhansome-Blue-Team-Roadmap",

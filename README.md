@@ -817,11 +817,11 @@ DeviceProcessEvents
 
 | Tool                       | Purpose                                         | Link                                                                                                                                   |
 | -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Volatility 3**           | Memory forensics (RAM analysis)                 | [github.com/volatilityfoundation](https://github.com/volatilityfoundation/volatility3) ⭐ 4,333 \| 🐛 134 \| 🌐 Python \| 📅 2026-08-14 |
+| **Volatility 3**           | Memory forensics (RAM analysis)                 | [github.com/volatilityfoundation](https://github.com/volatilityfoundation/volatility3) ⭐ 4,334 \| 🐛 136 \| 🌐 Python \| 📅 2026-08-14 |
 | **Autopsy**                | Disk forensics (open-source)                    | [autopsy.com](https://www.autopsy.com/)                                                                                                |
 | **FTK Imager**             | Disk imaging and evidence collection            | [exterro.com](https://www.exterro.com/ftk-imager)                                                                                      |
 | **KAPE**                   | Rapid evidence collection                       | [kroll.com](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)    |
-| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,183 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-17                           |
+| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,185 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-18                           |
 | **Eric Zimmerman's Tools** | Windows artifact parsing (MFT, ShellBags, etc.) | [ericzimmerman.github.io](https://ericzimmerman.github.io/)                                                                            |
 | **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,633 \| 🐛 4 \| 🌐 Rust \| 📅 2026-08-04                    |
 
@@ -829,8 +829,8 @@ DeviceProcessEvents
 
 | Tool/Standard       | Purpose                                  | Link                                                                                                        |
 | ------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,899 \| 🐛 202 \| 🌐 Python \| 📅 2026-08-15     |
-| **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,811 \| 🐛 177 \| 🌐 C \| 📅 2026-07-30 |
+| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,903 \| 🐛 191 \| 🌐 Python \| 📅 2026-08-18     |
+| **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,813 \| 🐛 177 \| 🌐 C \| 📅 2026-07-30 |
 | **TheHive**         | Open-source incident case management     | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **Cortex**          | Observable analysis automation           | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **MISP**            | Threat intelligence sharing platform     | [misp-project.org](https://www.misp-project.org/)                                                           |
@@ -847,7 +847,7 @@ DeviceProcessEvents
 | --------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Splunk SOAR**                   | Enterprise SOAR                 | [splunk.com](https://www.splunk.com/en_us/products/splunk-soar.html)                                         |
 | **Microsoft Sentinel Logic Apps** | Cloud-native automation         | [azure.microsoft.com](https://azure.microsoft.com/)                                                          |
-| **Shuffle**                       | Open-source SOAR                | [github.com/Shuffle](https://github.com/Shuffle/Shuffle) ⭐ 2,413 \| 🐛 490 \| 🌐 JavaScript \| 📅 2026-08-14 |
+| **Shuffle**                       | Open-source SOAR                | [github.com/Shuffle](https://github.com/Shuffle/Shuffle) ⭐ 2,414 \| 🐛 490 \| 🌐 JavaScript \| 📅 2026-08-18 |
 | **Tines**                         | No-code SOAR                    | [tines.com](https://www.tines.com/)                                                                          |
 | **n8n**                           | Open-source workflow automation | [n8n.io](https://n8n.io/)                                                                                    |
 
@@ -1044,7 +1044,7 @@ Build a home lab that mirrors real enterprise environments:
    * Document the entire setup with architecture diagrams
 
 2. **Adversary Emulation with Atomic Red Team**
-   * Install [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,417 | 🐛 26 | 🌐 C | 📅 2026-08-17 on a test machine
+   * Install [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,422 | 🐛 28 | 🌐 C | 📅 2026-08-17 on a test machine
    * Execute techniques mapped to MITRE ATT\&CK (e.g., T1003.001 credential dumping)
    * Verify whether your SIEM detects each attack
    * Write custom detection rules to close gaps
@@ -1067,7 +1067,7 @@ Build a home lab that mirrors real enterprise environments:
    * Map their techniques to your SIEM rules
 
 6. **Open-Source Detection Rule Contributions**
-   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,899 | 🐛 202 | 🌐 Python | 📅 2026-08-15
+   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,903 | 🐛 191 | 🌐 Python | 📅 2026-08-18
    * Write SIGMA rules for specific attack techniques
    * Write YARA rules for malware detection
    * Even 1 accepted PR demonstrates real skill
@@ -1387,7 +1387,7 @@ Don't underestimate these. They assess culture fit and how you handle real-world
 | Resource                                | Link                                                                                                            |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | LetsDefend, SOC Interview Questions     | [letsdefend.io](https://letsdefend.io/pdf/popular-soc-analyst-interview-questions)                              |
-| GitHub, SOC-Interview-Questions         | [github.com/LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions) ⭐ 1,336 \| 🐛 8 \| 📅 2024-09-10 |
+| GitHub, SOC-Interview-Questions         | [github.com/LetsDefend](https://github.com/LetsDefend/SOC-Interview-Questions) ⭐ 1,335 \| 🐛 8 \| 📅 2024-09-10 |
 | TryHackMe, SOC Analyst Interview Prep   | [tryhackme.com](https://tryhackme.com/)                                                                         |
 | Cybersecurity Interview Bible (YouTube) | Search "SOC analyst interview questions"                                                                        |
 
@@ -1497,15 +1497,15 @@ Stay ahead by understanding where the industry is heading:
 
 | Repo                                   | Description                                 | Link                                                                                                         |
 | -------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,899 \| 🐛 202 \| 🌐 Python \| 📅 2026-08-15              |
+| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,903 \| 🐛 191 \| 🌐 Python \| 📅 2026-08-18              |
 | sbousseaden/EVTX-ATTACK-SAMPLES        | Windows event log samples mapped to ATT\&CK | [github.com](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,608 \| 🐛 5 \| 🌐 HTML \| 📅 2023-01-24 |
 | fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,521 \| 🐛 74 \| 📅 2024-07-15    |
-| InQuest/awesome-yara                   | YARA rules collection                       | [github.com](https://github.com/InQuest/awesome-yara) ⭐ 4,256 \| 🐛 1 \| 📅 2026-06-15                       |
+| InQuest/awesome-yara                   | YARA rules collection                       | [github.com](https://github.com/InQuest/awesome-yara) ⭐ 4,257 \| 🐛 1 \| 📅 2026-06-15                       |
 | aboutsecurity/blueteam\_homelabs       | Home lab build resources                    | [github.com](https://github.com/aboutsecurity/blueteam_homelabs) ⭐ 941 \| 🐛 2 \| 📅 2023-12-01              |
-| A-poc/BlueTeam-Tools                   | 65+ Blue Team tools list                    | [github.com](https://github.com/A-poc/BlueTeam-Tools) ⭐ 4,432 \| 🐛 4 \| 📅 2026-07-10                       |
+| A-poc/BlueTeam-Tools                   | 65+ Blue Team tools list                    | [github.com](https://github.com/A-poc/BlueTeam-Tools) ⭐ 4,435 \| 🐛 4 \| 📅 2026-07-10                       |
 | SwiftOnSecurity/sysmon-config          | Sysmon configuration template               | [github.com](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,624 \| 🐛 82 \| 📅 2024-07-03             |
-| redcanaryco/atomic-red-team            | Adversary emulation for detection testing   | [github.com](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,417 \| 🐛 26 \| 🌐 C \| 📅 2026-08-17      |
-| LetsDefend/SOC-Interview-Questions     | Interview preparation                       | [github.com](https://github.com/LetsDefend/SOC-Interview-Questions) ⭐ 1,336 \| 🐛 8 \| 📅 2024-09-10         |
+| redcanaryco/atomic-red-team            | Adversary emulation for detection testing   | [github.com](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,422 \| 🐛 28 \| 🌐 C \| 📅 2026-08-17      |
+| LetsDefend/SOC-Interview-Questions     | Interview preparation                       | [github.com](https://github.com/LetsDefend/SOC-Interview-Questions) ⭐ 1,335 \| 🐛 8 \| 📅 2024-09-10         |
 
 ### Communities
 
@@ -1555,4 +1555,4 @@ Contributions are welcome! If you have suggestions for resources, tools, or impr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
