@@ -817,19 +817,19 @@ DeviceProcessEvents
 
 | Tool                       | Purpose                                         | Link                                                                                                                                   |
 | -------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Volatility 3**           | Memory forensics (RAM analysis)                 | [github.com/volatilityfoundation](https://github.com/volatilityfoundation/volatility3) ⭐ 4,336 \| 🐛 137 \| 🌐 Python \| 📅 2026-08-14 |
+| **Volatility 3**           | Memory forensics (RAM analysis)                 | [github.com/volatilityfoundation](https://github.com/volatilityfoundation/volatility3) ⭐ 4,338 \| 🐛 135 \| 🌐 Python \| 📅 2026-08-19 |
 | **Autopsy**                | Disk forensics (open-source)                    | [autopsy.com](https://www.autopsy.com/)                                                                                                |
 | **FTK Imager**             | Disk imaging and evidence collection            | [exterro.com](https://www.exterro.com/ftk-imager)                                                                                      |
 | **KAPE**                   | Rapid evidence collection                       | [kroll.com](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)    |
-| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,186 \| 🐛 71 \| 🌐 Go \| 📅 2026-08-18                           |
+| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,187 \| 🐛 72 \| 🌐 Go \| 📅 2026-08-18                           |
 | **Eric Zimmerman's Tools** | Windows artifact parsing (MFT, ShellBags, etc.) | [ericzimmerman.github.io](https://ericzimmerman.github.io/)                                                                            |
-| **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,634 \| 🐛 5 \| 🌐 Rust \| 📅 2026-08-04                    |
+| **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,634 \| 🐛 4 \| 🌐 Rust \| 📅 2026-08-19                    |
 
 ### 6.5 Detection & Threat Intelligence
 
 | Tool/Standard       | Purpose                                  | Link                                                                                                        |
 | ------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,905 \| 🐛 192 \| 🌐 Python \| 📅 2026-08-18     |
+| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,911 \| 🐛 192 \| 🌐 Python \| 📅 2026-08-18     |
 | **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,814 \| 🐛 174 \| 🌐 C \| 📅 2026-08-19 |
 | **TheHive**         | Open-source incident case management     | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **Cortex**          | Observable analysis automation           | [thehive-project.org](https://www.thehive-project.org/)                                                     |
@@ -847,7 +847,7 @@ DeviceProcessEvents
 | --------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Splunk SOAR**                   | Enterprise SOAR                 | [splunk.com](https://www.splunk.com/en_us/products/splunk-soar.html)                                         |
 | **Microsoft Sentinel Logic Apps** | Cloud-native automation         | [azure.microsoft.com](https://azure.microsoft.com/)                                                          |
-| **Shuffle**                       | Open-source SOAR                | [github.com/Shuffle](https://github.com/Shuffle/Shuffle) ⭐ 2,414 \| 🐛 490 \| 🌐 JavaScript \| 📅 2026-08-18 |
+| **Shuffle**                       | Open-source SOAR                | [github.com/Shuffle](https://github.com/Shuffle/Shuffle) ⭐ 2,414 \| 🐛 490 \| 🌐 JavaScript \| 📅 2026-08-19 |
 | **Tines**                         | No-code SOAR                    | [tines.com](https://www.tines.com/)                                                                          |
 | **n8n**                           | Open-source workflow automation | [n8n.io](https://n8n.io/)                                                                                    |
 
@@ -1067,7 +1067,7 @@ Build a home lab that mirrors real enterprise environments:
    * Map their techniques to your SIEM rules
 
 6. **Open-Source Detection Rule Contributions**
-   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,905 | 🐛 192 | 🌐 Python | 📅 2026-08-18
+   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,911 | 🐛 192 | 🌐 Python | 📅 2026-08-18
    * Write SIGMA rules for specific attack techniques
    * Write YARA rules for malware detection
    * Even 1 accepted PR demonstrates real skill
@@ -1497,12 +1497,12 @@ Stay ahead by understanding where the industry is heading:
 
 | Repo                                   | Description                                 | Link                                                                                                         |
 | -------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,905 \| 🐛 192 \| 🌐 Python \| 📅 2026-08-18              |
+| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,911 \| 🐛 192 \| 🌐 Python \| 📅 2026-08-18              |
 | sbousseaden/EVTX-ATTACK-SAMPLES        | Windows event log samples mapped to ATT\&CK | [github.com](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,609 \| 🐛 5 \| 🌐 HTML \| 📅 2023-01-24 |
-| fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,521 \| 🐛 74 \| 📅 2024-07-15    |
+| fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,525 \| 🐛 75 \| 📅 2024-07-15    |
 | InQuest/awesome-yara                   | YARA rules collection                       | [github.com](https://github.com/InQuest/awesome-yara) ⭐ 4,257 \| 🐛 1 \| 📅 2026-06-15                       |
 | aboutsecurity/blueteam\_homelabs       | Home lab build resources                    | [github.com](https://github.com/aboutsecurity/blueteam_homelabs) ⭐ 941 \| 🐛 2 \| 📅 2023-12-01              |
-| A-poc/BlueTeam-Tools                   | 65+ Blue Team tools list                    | [github.com](https://github.com/A-poc/BlueTeam-Tools) ⭐ 4,437 \| 🐛 4 \| 📅 2026-07-10                       |
+| A-poc/BlueTeam-Tools                   | 65+ Blue Team tools list                    | [github.com](https://github.com/A-poc/BlueTeam-Tools) ⭐ 4,440 \| 🐛 4 \| 📅 2026-07-10                       |
 | SwiftOnSecurity/sysmon-config          | Sysmon configuration template               | [github.com](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,624 \| 🐛 82 \| 📅 2024-07-03             |
 | redcanaryco/atomic-red-team            | Adversary emulation for detection testing   | [github.com](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,424 \| 🐛 28 \| 🌐 C \| 📅 2026-08-17      |
 | LetsDefend/SOC-Interview-Questions     | Interview preparation                       | [github.com](https://github.com/LetsDefend/SOC-Interview-Questions) ⭐ 1,335 \| 🐛 8 \| 📅 2024-09-10         |
@@ -1555,4 +1555,4 @@ Contributions are welcome! If you have suggestions for resources, tools, or impr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
