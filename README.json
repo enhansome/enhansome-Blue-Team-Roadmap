@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-10T00:47:52Z",
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3116
+                    "stars": 3118
                   }
                 }
               ],
@@ -72,7 +72,7 @@
                     "last_commit": "2026-08-17T18:03:26Z",
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12433
+                    "stars": 12440
                   }
                 }
               ]
@@ -94,7 +94,7 @@
                     "last_commit": "2026-08-18T23:42:38Z",
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10927
+                    "stars": 10928
                   }
                 }
               ]
@@ -109,7 +109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:42:57.827Z",
+    "last_updated": "2026-08-23T02:51:50.959Z",
     "original_repository": "keraattin/Blue-Team-Roadmap",
     "original_repository_id": 1191504746,
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
