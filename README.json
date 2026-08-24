@@ -51,6 +51,123 @@
       "title": "🖥️ Phase 2: Windows Essentials"
     },
     {
+      "description": "Timeline: Weeks 8-14 · Effort: 2-3 hours/day\nThese are the tools you'll use every day in a SOC role. Focus on SIEM first, then expand to EDR, network detection, and forensics.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volatility 3",
+              "description": "Memory forensics (RAM analysis) github.com/volatilityfoundation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16258388,
+                "language": "Python",
+                "last_commit": "2026-08-19T14:14:53Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility3",
+                "stars": 4352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Velociraptor",
+              "description": "Endpoint investigation at scale github.com/Velocidex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126576769,
+                "language": "Go",
+                "last_commit": "2026-08-20T23:59:35Z",
+                "owner": "Velocidex",
+                "repo": "velociraptor",
+                "stars": 4197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chainsaw",
+              "description": "Windows event log hunting github.com/WithSecureLabs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395658506,
+                "language": "Rust",
+                "last_commit": "2026-08-19T19:29:57Z",
+                "owner": "WithSecureLabs",
+                "repo": "chainsaw",
+                "stars": 3644
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6.4 Forensics & Incident Response"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SIGMA Rules",
+              "description": "Vendor-agnostic detection rules (3,000+) github.com/SigmaHQ",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77276660,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:42:38Z",
+                "owner": "SigmaHQ",
+                "repo": "sigma",
+                "stars": 10933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YARA Rules",
+              "description": "Malware pattern matching github.com/VirusTotal/yara",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7037996,
+                "language": "C",
+                "last_commit": "2026-08-21T08:34:22Z",
+                "owner": "VirusTotal",
+                "repo": "yara",
+                "stars": 9821
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6.5 Detection & Threat Intelligence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shuffle",
+              "description": "Open-source SOAR github.com/Shuffle",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262044260,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:16:46Z",
+                "owner": "Shuffle",
+                "repo": "Shuffle",
+                "stars": 2419
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6.6 SOAR (Security Orchestration, Automation & Response)"
+        }
+      ],
+      "title": "🔧 Phase 6: Blue Team Tools"
+    },
+    {
       "description": "Timeline: Months 5-9\nCertifications prove knowledge. Projects prove you can do the work. Hiring managers consistently rank demonstrated practical skills above certification counts.",
       "items": [
         {
@@ -69,10 +186,10 @@
                     "archived": false,
                     "id": 106586124,
                     "language": "C",
-                    "last_commit": "2026-08-17T18:03:26Z",
+                    "last_commit": "2026-08-24T11:19:06Z",
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12446
+                    "stars": 12448
                   }
                 }
               ]
@@ -94,7 +211,7 @@
                     "last_commit": "2026-08-18T23:42:38Z",
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10929
+                    "stars": 10933
                   }
                 }
               ]
@@ -106,10 +223,158 @@
         }
       ],
       "title": "📁 Phase 9: Build Your Portfolio"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SigmaHQ/sigma",
+              "description": "3,000+ vendor-agnostic detection rules github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77276660,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:42:38Z",
+                "owner": "SigmaHQ",
+                "repo": "sigma",
+                "stars": 10933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sbousseaden/EVTX-ATTACK-SAMPLES",
+              "description": "Windows event log samples mapped to ATT&CK github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175782105,
+                "language": "HTML",
+                "last_commit": "2023-01-24T12:02:51Z",
+                "owner": "sbousseaden",
+                "repo": "EVTX-ATTACK-SAMPLES",
+                "stars": 2612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fabacab/awesome-cybersecurity-blueteam",
+              "description": "Curated Blue Team tool list github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142053144,
+                "language": null,
+                "last_commit": "2024-07-15T08:05:27Z",
+                "owner": "fabacab",
+                "repo": "awesome-cybersecurity-blueteam",
+                "stars": 5539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InQuest/awesome-yara",
+              "description": "YARA rules collection github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101214787,
+                "language": null,
+                "last_commit": "2026-06-15T19:57:31Z",
+                "owner": "pedramamini",
+                "repo": "awesome-yara",
+                "stars": 4260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aboutsecurity/blueteam_homelabs",
+              "description": "Home lab build resources github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262863073,
+                "language": null,
+                "last_commit": "2023-12-01T21:34:40Z",
+                "owner": "aboutsecurity",
+                "repo": "blueteam_homelabs",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A-poc/BlueTeam-Tools",
+              "description": "65+ Blue Team tools list github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584522336,
+                "language": null,
+                "last_commit": "2026-08-23T17:01:16Z",
+                "owner": "A-poc",
+                "repo": "BlueTeam-Tools",
+                "stars": 4455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftOnSecurity/sysmon-config",
+              "description": "Sysmon configuration template github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80652174,
+                "language": null,
+                "last_commit": "2024-07-03T17:26:43Z",
+                "owner": "SwiftOnSecurity",
+                "repo": "sysmon-config",
+                "stars": 5627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redcanaryco/atomic-red-team",
+              "description": "Adversary emulation for detection testing github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106586124,
+                "language": "C",
+                "last_commit": "2026-08-24T11:19:06Z",
+                "owner": "redcanaryco",
+                "repo": "atomic-red-team",
+                "stars": 12448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LetsDefend/SOC-Interview-Questions",
+              "description": "Interview preparation github.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512659042,
+                "language": null,
+                "last_commit": "2024-09-10T13:58:11Z",
+                "owner": "LetsDefend",
+                "repo": "SOC-Interview-Questions",
+                "stars": 1335
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Repositories"
+        }
+      ],
+      "title": "📚 Free Resources Directory"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:52:28.818Z",
+    "last_updated": "2026-08-24T14:49:25.858Z",
     "original_repository": "keraattin/Blue-Team-Roadmap",
     "original_repository_id": 1191504746,
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
