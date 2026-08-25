@@ -821,15 +821,15 @@ DeviceProcessEvents
 | **Autopsy**                | Disk forensics (open-source)                    | [autopsy.com](https://www.autopsy.com/)                                                                                                |
 | **FTK Imager**             | Disk imaging and evidence collection            | [exterro.com](https://www.exterro.com/ftk-imager)                                                                                      |
 | **KAPE**                   | Rapid evidence collection                       | [kroll.com](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)    |
-| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,201 \| 🐛 78 \| 🌐 Go \| 📅 2026-08-25                           |
+| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,201 \| 🐛 73 \| 🌐 Go \| 📅 2026-08-25                           |
 | **Eric Zimmerman's Tools** | Windows artifact parsing (MFT, ShellBags, etc.) | [ericzimmerman.github.io](https://ericzimmerman.github.io/)                                                                            |
-| **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,644 \| 🐛 5 \| 🌐 Rust \| 📅 2026-08-19                    |
+| **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,645 \| 🐛 5 \| 🌐 Rust \| 📅 2026-08-19                    |
 
 ### 6.5 Detection & Threat Intelligence
 
 | Tool/Standard       | Purpose                                  | Link                                                                                                        |
 | ------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,936 \| 🐛 199 \| 🌐 Python \| 📅 2026-08-18     |
+| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,937 \| 🐛 199 \| 🌐 Python \| 📅 2026-08-18     |
 | **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,822 \| 🐛 171 \| 🌐 C \| 📅 2026-08-21 |
 | **TheHive**         | Open-source incident case management     | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **Cortex**          | Observable analysis automation           | [thehive-project.org](https://www.thehive-project.org/)                                                     |
@@ -1067,7 +1067,7 @@ Build a home lab that mirrors real enterprise environments:
    * Map their techniques to your SIEM rules
 
 6. **Open-Source Detection Rule Contributions**
-   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,936 | 🐛 199 | 🌐 Python | 📅 2026-08-18
+   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,937 | 🐛 199 | 🌐 Python | 📅 2026-08-18
    * Write SIGMA rules for specific attack techniques
    * Write YARA rules for malware detection
    * Even 1 accepted PR demonstrates real skill
@@ -1497,7 +1497,7 @@ Stay ahead by understanding where the industry is heading:
 
 | Repo                                   | Description                                 | Link                                                                                                         |
 | -------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,936 \| 🐛 199 \| 🌐 Python \| 📅 2026-08-18              |
+| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,937 \| 🐛 199 \| 🌐 Python \| 📅 2026-08-18              |
 | sbousseaden/EVTX-ATTACK-SAMPLES        | Windows event log samples mapped to ATT\&CK | [github.com](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,613 \| 🐛 5 \| 🌐 HTML \| 📅 2023-01-24 |
 | fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,540 \| 🐛 76 \| 📅 2024-07-15    |
 | InQuest/awesome-yara                   | YARA rules collection                       | [github.com](https://github.com/InQuest/awesome-yara) ⭐ 4,261 \| 🐛 1 \| 📅 2026-06-15                       |
