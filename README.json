@@ -19,7 +19,7 @@
                     "last_commit": "2024-07-03T17:26:43Z",
                     "owner": "SwiftOnSecurity",
                     "repo": "sysmon-config",
-                    "stars": 5628
+                    "stars": 5630
                   }
                 },
                 {
@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-25T05:09:18Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4201
+                "stars": 4205
               }
             },
             {
@@ -94,7 +94,7 @@
                 "archived": false,
                 "id": 395658506,
                 "language": "Rust",
-                "last_commit": "2026-08-19T19:29:57Z",
+                "last_commit": "2026-08-25T19:12:42Z",
                 "owner": "WithSecureLabs",
                 "repo": "chainsaw",
                 "stars": 3645
@@ -119,7 +119,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10937
+                "stars": 10940
               }
             },
             {
@@ -131,10 +131,10 @@
                 "archived": false,
                 "id": 7037996,
                 "language": "C",
-                "last_commit": "2026-08-21T08:34:22Z",
+                "last_commit": "2026-08-25T10:54:31Z",
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9822
+                "stars": 9826
               }
             }
           ],
@@ -189,7 +189,7 @@
                     "last_commit": "2026-08-24T23:51:22Z",
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12449
+                    "stars": 12453
                   }
                 }
               ]
@@ -211,7 +211,7 @@
                     "last_commit": "2026-08-18T23:42:38Z",
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10937
+                    "stars": 10940
                   }
                 }
               ]
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10937
+                "stars": 10940
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2024-07-15T08:05:27Z",
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5540
+                "stars": 5541
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2023-12-01T21:34:40Z",
                 "owner": "aboutsecurity",
                 "repo": "blueteam_homelabs",
-                "stars": 946
+                "stars": 945
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2024-07-03T17:26:43Z",
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5628
+                "stars": 5630
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-24T23:51:22Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12449
+                "stars": 12453
               }
             },
             {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:12.458Z",
+    "last_updated": "2026-08-26T02:54:14.569Z",
     "original_repository": "keraattin/Blue-Team-Roadmap",
     "original_repository_id": 1191504746,
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
