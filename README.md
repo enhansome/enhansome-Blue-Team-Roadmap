@@ -829,7 +829,7 @@ DeviceProcessEvents
 
 | Tool/Standard       | Purpose                                  | Link                                                                                                        |
 | ------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,947 \| 🐛 204 \| 🌐 Python \| 📅 2026-08-18     |
+| **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,947 \| 🐛 205 \| 🌐 Python \| 📅 2026-08-18     |
 | **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,833 \| 🐛 170 \| 🌐 C \| 📅 2026-08-25 |
 | **TheHive**         | Open-source incident case management     | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **Cortex**          | Observable analysis automation           | [thehive-project.org](https://www.thehive-project.org/)                                                     |
@@ -1067,7 +1067,7 @@ Build a home lab that mirrors real enterprise environments:
    * Map their techniques to your SIEM rules
 
 6. **Open-Source Detection Rule Contributions**
-   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,947 | 🐛 204 | 🌐 Python | 📅 2026-08-18
+   * Contribute to [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,947 | 🐛 205 | 🌐 Python | 📅 2026-08-18
    * Write SIGMA rules for specific attack techniques
    * Write YARA rules for malware detection
    * Even 1 accepted PR demonstrates real skill
@@ -1497,9 +1497,9 @@ Stay ahead by understanding where the industry is heading:
 
 | Repo                                   | Description                                 | Link                                                                                                         |
 | -------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,947 \| 🐛 204 \| 🌐 Python \| 📅 2026-08-18              |
+| SigmaHQ/sigma                          | 3,000+ vendor-agnostic detection rules      | [github.com](https://github.com/SigmaHQ/sigma) ⭐ 10,947 \| 🐛 205 \| 🌐 Python \| 📅 2026-08-18              |
 | sbousseaden/EVTX-ATTACK-SAMPLES        | Windows event log samples mapped to ATT\&CK | [github.com](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,614 \| 🐛 5 \| 🌐 HTML \| 📅 2023-01-24 |
-| fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,542 \| 🐛 74 \| 📅 2024-07-15    |
+| fabacab/awesome-cybersecurity-blueteam | Curated Blue Team tool list                 | [github.com](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,541 \| 🐛 74 \| 📅 2024-07-15    |
 | InQuest/awesome-yara                   | YARA rules collection                       | [github.com](https://github.com/InQuest/awesome-yara) ⭐ 4,263 \| 🐛 1 \| 📅 2026-06-15                       |
 | aboutsecurity/blueteam\_homelabs       | Home lab build resources                    | [github.com](https://github.com/aboutsecurity/blueteam_homelabs) ⭐ 946 \| 🐛 2 \| 📅 2023-12-01              |
 | A-poc/BlueTeam-Tools                   | 65+ Blue Team tools list                    | [github.com](https://github.com/A-poc/BlueTeam-Tools) ⭐ 4,457 \| 🐛 4 \| 📅 2026-08-23                       |
