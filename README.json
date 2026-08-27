@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-10T00:47:52Z",
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3117
+                    "stars": 3119
                   }
                 }
               ],
@@ -67,7 +67,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4354
+                "stars": 4357
               }
             },
             {
@@ -82,7 +82,7 @@
                 "last_commit": "2026-08-25T05:09:18Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4205
+                "stars": 4208
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-25T19:12:42Z",
                 "owner": "WithSecureLabs",
                 "repo": "chainsaw",
-                "stars": 3645
+                "stars": 3648
               }
             }
           ],
@@ -119,7 +119,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10940
+                "stars": 10947
               }
             },
             {
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-25T10:54:31Z",
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9826
+                "stars": 9833
               }
             }
           ],
@@ -153,10 +153,10 @@
                 "archived": false,
                 "id": 262044260,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:00:32Z",
+                "last_commit": "2026-08-27T09:16:47Z",
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2419
+                "stars": 2421
               }
             }
           ],
@@ -189,7 +189,7 @@
                     "last_commit": "2026-08-24T23:51:22Z",
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12453
+                    "stars": 12458
                   }
                 }
               ]
@@ -211,7 +211,7 @@
                     "last_commit": "2026-08-18T23:42:38Z",
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10940
+                    "stars": 10947
                   }
                 }
               ]
@@ -241,7 +241,7 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10940
+                "stars": 10947
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2023-01-24T12:02:51Z",
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2613
+                "stars": 2614
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2024-07-15T08:05:27Z",
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5541
+                "stars": 5542
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-06-15T19:57:31Z",
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4261
+                "stars": 4263
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2023-12-01T21:34:40Z",
                 "owner": "aboutsecurity",
                 "repo": "blueteam_homelabs",
-                "stars": 945
+                "stars": 946
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-08-23T17:01:16Z",
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4455
+                "stars": 4457
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-24T23:51:22Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12453
+                "stars": 12458
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2024-09-10T13:58:11Z",
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
-                "stars": 1337
+                "stars": 1338
               }
             }
           ],
@@ -374,9 +374,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:54:14.569Z",
-    "original_repository": "keraattin/Blue-Team-Roadmap",
-    "original_repository_id": 1191504746,
+    "last_updated": "2026-08-27T11:27:27.037Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1191504746,
+      "language": null,
+      "last_commit": "2026-03-25T13:14:44Z",
+      "owner": "keraattin",
+      "repo": "Blue-Team-Roadmap",
+      "stars": 78
+    },
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
     "enhanced_repository": "enhansome/enhansome-Blue-Team-Roadmap",
     "enhanced_repository_description": null,
