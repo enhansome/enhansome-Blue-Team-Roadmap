@@ -19,8 +19,9 @@
                     "last_commit": "2024-07-03T17:26:43Z",
                     "owner": "SwiftOnSecurity",
                     "repo": "sysmon-config",
-                    "stars": 5630
-                  }
+                    "stars": 5631
+                  },
+                  "first_seen": "2026-08-28T13:24:27.631Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
                     "stars": 3119
-                  }
+                  },
+                  "first_seen": "2026-08-28T13:24:27.631Z"
                 }
               ],
               "description": "Sysmon is a Windows system service that provides detailed telemetry on process creation, network connections, file creation, and more. It is essential for any SOC.",
@@ -67,8 +69,9 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4357
-              }
+                "stars": 4358
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -82,8 +85,9 @@
                 "last_commit": "2026-08-25T05:09:18Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4208
-              }
+                "stars": 4211
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -97,8 +101,9 @@
                 "last_commit": "2026-08-25T19:12:42Z",
                 "owner": "WithSecureLabs",
                 "repo": "chainsaw",
-                "stars": 3648
-              }
+                "stars": 3650
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             }
           ],
           "description": null,
@@ -119,8 +124,9 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10947
-              }
+                "stars": 10956
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -134,8 +140,9 @@
                 "last_commit": "2026-08-25T10:54:31Z",
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9833
-              }
+                "stars": 9835
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             }
           ],
           "description": null,
@@ -156,8 +163,9 @@
                 "last_commit": "2026-08-27T09:16:47Z",
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2421
-              }
+                "stars": 2423
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             }
           ],
           "description": null,
@@ -186,11 +194,12 @@
                     "archived": false,
                     "id": 106586124,
                     "language": "C",
-                    "last_commit": "2026-08-24T23:51:22Z",
+                    "last_commit": "2026-08-28T01:43:13Z",
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12458
-                  }
+                    "stars": 12462
+                  },
+                  "first_seen": "2026-08-28T13:24:27.631Z"
                 }
               ]
             },
@@ -211,8 +220,9 @@
                     "last_commit": "2026-08-18T23:42:38Z",
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10947
-                  }
+                    "stars": 10956
+                  },
+                  "first_seen": "2026-08-28T13:24:27.631Z"
                 }
               ]
             }
@@ -241,8 +251,9 @@
                 "last_commit": "2026-08-18T23:42:38Z",
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10947
-              }
+                "stars": 10956
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -256,8 +267,9 @@
                 "last_commit": "2023-01-24T12:02:51Z",
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2614
-              }
+                "stars": 2615
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -271,8 +283,9 @@
                 "last_commit": "2024-07-15T08:05:27Z",
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5541
-              }
+                "stars": 5543
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -286,8 +299,9 @@
                 "last_commit": "2026-06-15T19:57:31Z",
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4263
-              }
+                "stars": 4265
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -302,7 +316,8 @@
                 "owner": "aboutsecurity",
                 "repo": "blueteam_homelabs",
                 "stars": 946
-              }
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -316,8 +331,9 @@
                 "last_commit": "2026-08-23T17:01:16Z",
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4457
-              }
+                "stars": 4459
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -331,8 +347,9 @@
                 "last_commit": "2024-07-03T17:26:43Z",
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5630
-              }
+                "stars": 5631
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -343,11 +360,12 @@
                 "archived": false,
                 "id": 106586124,
                 "language": "C",
-                "last_commit": "2026-08-24T23:51:22Z",
+                "last_commit": "2026-08-28T01:43:13Z",
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12458
-              }
+                "stars": 12462
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             },
             {
               "node_type": "item",
@@ -362,7 +380,8 @@
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T13:24:27.631Z"
             }
           ],
           "description": null,
@@ -374,7 +393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:41.616Z",
+    "last_updated": "2026-08-28T13:24:27.631Z",
     "original_repository_info": {
       "archived": false,
       "id": 1191504746,
