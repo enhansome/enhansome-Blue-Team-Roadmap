@@ -821,7 +821,7 @@ DeviceProcessEvents
 | **Autopsy**                | Disk forensics (open-source)                    | [autopsy.com](https://www.autopsy.com/)                                                                                                |
 | **FTK Imager**             | Disk imaging and evidence collection            | [exterro.com](https://www.exterro.com/ftk-imager)                                                                                      |
 | **KAPE**                   | Rapid evidence collection                       | [kroll.com](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)    |
-| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,212 \| 🐛 75 \| 🌐 Go \| 📅 2026-08-25                           |
+| **Velociraptor**           | Endpoint investigation at scale                 | [github.com/Velocidex](https://github.com/Velocidex/velociraptor) ⭐ 4,213 \| 🐛 75 \| 🌐 Go \| 📅 2026-08-25                           |
 | **Eric Zimmerman's Tools** | Windows artifact parsing (MFT, ShellBags, etc.) | [ericzimmerman.github.io](https://ericzimmerman.github.io/)                                                                            |
 | **Chainsaw**               | Windows event log hunting                       | [github.com/WithSecureLabs](https://github.com/WithSecureLabs/chainsaw) ⭐ 3,650 \| 🐛 4 \| 🌐 Rust \| 📅 2026-08-25                    |
 
@@ -830,7 +830,7 @@ DeviceProcessEvents
 | Tool/Standard       | Purpose                                  | Link                                                                                                        |
 | ------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **SIGMA Rules**     | Vendor-agnostic detection rules (3,000+) | [github.com/SigmaHQ](https://github.com/SigmaHQ/sigma) ⭐ 10,956 \| 🐛 209 \| 🌐 Python \| 📅 2026-08-18     |
-| **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,836 \| 🐛 170 \| 🌐 C \| 📅 2026-08-25 |
+| **YARA Rules**      | Malware pattern matching                 | [github.com/VirusTotal/yara](https://github.com/VirusTotal/yara) ⭐ 9,837 \| 🐛 170 \| 🌐 C \| 📅 2026-08-25 |
 | **TheHive**         | Open-source incident case management     | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **Cortex**          | Observable analysis automation           | [thehive-project.org](https://www.thehive-project.org/)                                                     |
 | **MISP**            | Threat intelligence sharing platform     | [misp-project.org](https://www.misp-project.org/)                                                           |

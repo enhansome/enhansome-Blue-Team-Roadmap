@@ -130,7 +130,7 @@
                 "open_issues": 75,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4212,
+                "stars": 4213,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -232,7 +232,7 @@
                 "open_issues": 170,
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9836,
+                "stars": 9837,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:41.999Z",
+    "last_updated": "2026-08-29T08:19:30.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
@@ -654,7 +654,7 @@
       "open_issues": 0,
       "owner": "keraattin",
       "repo": "Blue-Team-Roadmap",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "awesome-list",
         "beginner-friendly",
