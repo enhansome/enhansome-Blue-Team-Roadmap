@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sysmon configuration file template with default high-quality event tracing",
+                    "homepage": null,
                     "id": 80652174,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-07-03T17:26:43Z",
+                    "open_issues": 82,
                     "owner": "SwiftOnSecurity",
                     "repo": "sysmon-config",
-                    "stars": 5631
+                    "stars": 5632,
+                    "topics": [
+                      "logging",
+                      "monitoring",
+                      "netsec",
+                      "sysinternals",
+                      "sysmon",
+                      "threat-hunting",
+                      "threatintel",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:27.631Z"
                 },
@@ -30,12 +44,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A repository of sysmon configuration modules",
+                    "homepage": null,
                     "id": 117379388,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T00:47:52Z",
+                    "open_issues": 49,
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3119
+                    "stars": 3119,
+                    "topics": [
+                      "dfir",
+                      "mitre-attack",
+                      "modular",
+                      "security-tools",
+                      "sysmon",
+                      "threat-hunting"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:27.631Z"
                 }
@@ -64,12 +90,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Volatility 3.0 development",
+                "homepage": "https://volatilityfoundation.org/",
                 "id": 16258388,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T14:14:53Z",
+                "open_issues": 135,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4358
+                "stars": 4358,
+                "topics": [
+                  "digital-investigation",
+                  "forensics",
+                  "incident-response",
+                  "malware",
+                  "memory",
+                  "python",
+                  "ram",
+                  "volatility",
+                  "volatility-framework"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -80,12 +121,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digging Deeper....",
+                "homepage": "https://docs.velociraptor.app/",
                 "id": 126576769,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T05:09:18Z",
+                "open_issues": 75,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4211
+                "stars": 4212,
+                "topics": [
+                  "digital-forensics",
+                  "endpoint-discovery",
+                  "endpoint-protection",
+                  "endpoint-security",
+                  "forensics-investigations",
+                  "incident-response",
+                  "inventory-management"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -96,12 +150,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rapidly Search and Hunt through Windows Forensic Artefacts",
+                "homepage": null,
                 "id": 395658506,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T19:12:42Z",
+                "open_issues": 4,
                 "owner": "WithSecureLabs",
                 "repo": "chainsaw",
-                "stars": 3650
+                "stars": 3650,
+                "topics": [
+                  "attack",
+                  "blueteam",
+                  "chainsaw",
+                  "countercept",
+                  "detection",
+                  "dfir",
+                  "forensics",
+                  "logs",
+                  "rust",
+                  "security",
+                  "sigma",
+                  "threat-hunting",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             }
@@ -119,12 +192,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main Sigma Rule Repository",
+                "homepage": "https://sigmahq.io/",
                 "id": 77276660,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T23:42:38Z",
+                "open_issues": 209,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10956
+                "stars": 10956,
+                "topics": [
+                  "elasticsearch",
+                  "ids",
+                  "logging",
+                  "monitoring",
+                  "security",
+                  "siem",
+                  "signatures",
+                  "splunk",
+                  "sysmon"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -135,12 +223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The pattern matching swiss knife",
+                "homepage": "https://virustotal.github.io/yara/",
                 "id": 7037996,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T10:54:31Z",
+                "open_issues": 170,
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9835
+                "stars": 9836,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             }
@@ -158,12 +251,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.",
+                "homepage": "https://shuffler.io",
                 "id": 262044260,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T09:16:47Z",
+                "open_issues": 491,
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2423
+                "stars": 2423,
+                "topics": [
+                  "automation",
+                  "cybersecurity",
+                  "discord",
+                  "integrations",
+                  "mitre-attack",
+                  "openapi",
+                  "orchestration",
+                  "orchestrator",
+                  "orchestrator-gui",
+                  "security",
+                  "security-automation",
+                  "security-orchestrator",
+                  "shuffle",
+                  "soar",
+                  "workflow-editor"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             }
@@ -192,12 +306,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+                    "homepage": null,
                     "id": 106586124,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T01:43:13Z",
+                    "open_issues": 30,
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12462
+                    "stars": 12462,
+                    "topics": [
+                      "mitre",
+                      "mitre-attack"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:27.631Z"
                 }
@@ -215,12 +337,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main Sigma Rule Repository",
+                    "homepage": "https://sigmahq.io/",
                     "id": 77276660,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-18T23:42:38Z",
+                    "open_issues": 209,
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10956
+                    "stars": 10956,
+                    "topics": [
+                      "elasticsearch",
+                      "ids",
+                      "logging",
+                      "monitoring",
+                      "security",
+                      "siem",
+                      "signatures",
+                      "splunk",
+                      "sysmon"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:27.631Z"
                 }
@@ -246,12 +383,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main Sigma Rule Repository",
+                "homepage": "https://sigmahq.io/",
                 "id": 77276660,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T23:42:38Z",
+                "open_issues": 209,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10956
+                "stars": 10956,
+                "topics": [
+                  "elasticsearch",
+                  "ids",
+                  "logging",
+                  "monitoring",
+                  "security",
+                  "siem",
+                  "signatures",
+                  "splunk",
+                  "sysmon"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -262,12 +414,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows Events Attack Samples",
+                "homepage": "https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES",
                 "id": 175782105,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-24T12:02:51Z",
+                "open_issues": 5,
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2615
+                "stars": 2616,
+                "topics": [
+                  "dataset",
+                  "detection-engineering",
+                  "dfir",
+                  "evtx",
+                  "mitre-attack",
+                  "threat-hunting",
+                  "windows-security",
+                  "winlogbeat"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -278,12 +444,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+                "homepage": null,
                 "id": 142053144,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-15T08:05:27Z",
+                "open_issues": 76,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5543
+                "stars": 5545,
+                "topics": [
+                  "awesome-list",
+                  "blue-team",
+                  "computer-security",
+                  "cybersecurity",
+                  "defensive-security",
+                  "infosec",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -294,12 +473,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome YARA rules, tools, and people.",
+                "homepage": null,
                 "id": 101214787,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-15T19:57:31Z",
+                "open_issues": 1,
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4265
+                "stars": 4264,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-yara",
+                  "ioc",
+                  "malware-analysis",
+                  "malware-detection",
+                  "malware-research",
+                  "malware-rules",
+                  "threat-hunting",
+                  "yara",
+                  "yara-manager",
+                  "yara-rules",
+                  "yara-scanner",
+                  "yara-signatures"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -310,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Great List of Resources to Build an Enterprise Grade Home Lab",
+                "homepage": null,
                 "id": 262863073,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-01T21:34:40Z",
+                "open_issues": 2,
                 "owner": "aboutsecurity",
                 "repo": "blueteam_homelabs",
-                "stars": 946
+                "stars": 947,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -326,12 +530,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools and Techniques for Blue Team / Incident Response",
+                "homepage": null,
                 "id": 584522336,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-23T17:01:16Z",
+                "open_issues": 4,
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4459
+                "stars": 4459,
+                "topics": [
+                  "blue-team",
+                  "blueteam",
+                  "cheatsheet",
+                  "cyber-security",
+                  "defender",
+                  "incident",
+                  "incident-response",
+                  "malware-analysis",
+                  "resources",
+                  "tools",
+                  "vulnerability-management",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -342,12 +564,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sysmon configuration file template with default high-quality event tracing",
+                "homepage": null,
                 "id": 80652174,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-03T17:26:43Z",
+                "open_issues": 82,
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5631
+                "stars": 5632,
+                "topics": [
+                  "logging",
+                  "monitoring",
+                  "netsec",
+                  "sysinternals",
+                  "sysmon",
+                  "threat-hunting",
+                  "threatintel",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -358,12 +594,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+                "homepage": null,
                 "id": 106586124,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:43:13Z",
+                "open_issues": 30,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12462
+                "stars": 12462,
+                "topics": [
+                  "mitre",
+                  "mitre-attack"
+                ]
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             },
@@ -374,12 +618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SOC Interview Questions",
+                "homepage": null,
                 "id": 512659042,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-10T13:58:11Z",
+                "open_issues": 8,
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
-                "stars": 1338
+                "stars": 1338,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
             }
@@ -393,15 +642,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:27.631Z",
+    "last_updated": "2026-08-29T05:01:41.999Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
+      "homepage": null,
       "id": 1191504746,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-25T13:14:44Z",
+      "open_issues": 0,
       "owner": "keraattin",
       "repo": "Blue-Team-Roadmap",
-      "stars": 78
+      "stars": 78,
+      "topics": [
+        "awesome-list",
+        "beginner-friendly",
+        "beginners-guide",
+        "blue-team",
+        "career",
+        "career-development",
+        "cybersecurity",
+        "cybersecurity-certifications",
+        "cybersecurity-education",
+        "defensive-security",
+        "incident-response",
+        "roadmap",
+        "siem",
+        "soc-analyst",
+        "threat-hunting"
+      ]
     },
     "original_repository_sha": "a9112f3fff9043e40fac11d57968081947fb3766",
     "enhanced_repository": "enhansome/enhansome-Blue-Team-Roadmap",
