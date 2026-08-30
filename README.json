@@ -23,7 +23,7 @@
                     "open_issues": 82,
                     "owner": "SwiftOnSecurity",
                     "repo": "sysmon-config",
-                    "stars": 5632,
+                    "stars": 5634,
                     "topics": [
                       "logging",
                       "monitoring",
@@ -53,7 +53,7 @@
                     "open_issues": 49,
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3119,
+                    "stars": 3121,
                     "topics": [
                       "dfir",
                       "mitre-attack",
@@ -99,7 +99,7 @@
                 "open_issues": 135,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4358,
+                "stars": 4360,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -130,7 +130,7 @@
                 "open_issues": 75,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4213,
+                "stars": 4217,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -201,7 +201,7 @@
                 "open_issues": 209,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10956,
+                "stars": 10958,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -232,7 +232,7 @@
                 "open_issues": 170,
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9837,
+                "stars": 9840,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -315,7 +315,7 @@
                     "open_issues": 30,
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12462,
+                    "stars": 12463,
                     "topics": [
                       "mitre",
                       "mitre-attack"
@@ -346,7 +346,7 @@
                     "open_issues": 209,
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 10956,
+                    "stars": 10958,
                     "topics": [
                       "elasticsearch",
                       "ids",
@@ -392,7 +392,7 @@
                 "open_issues": 209,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 10956,
+                "stars": 10958,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -450,10 +450,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-15T08:05:27Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5545,
+                "stars": 5546,
                 "topics": [
                   "awesome-list",
                   "blue-team",
@@ -539,7 +539,7 @@
                 "open_issues": 4,
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4459,
+                "stars": 4462,
                 "topics": [
                   "blue-team",
                   "blueteam",
@@ -573,7 +573,7 @@
                 "open_issues": 82,
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5632,
+                "stars": 5634,
                 "topics": [
                   "logging",
                   "monitoring",
@@ -603,7 +603,7 @@
                 "open_issues": 30,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12462,
+                "stars": 12463,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -627,7 +627,7 @@
                 "open_issues": 8,
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
-                "stars": 1338,
+                "stars": 1339,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:19:30.348Z",
+    "last_updated": "2026-08-30T07:32:17.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
