@@ -20,10 +20,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-07-03T17:26:43Z",
-                    "open_issues": 82,
+                    "open_issues": 83,
                     "owner": "SwiftOnSecurity",
                     "repo": "sysmon-config",
-                    "stars": 5658,
+                    "stars": 5662,
                     "topics": [
                       "logging",
                       "monitoring",
@@ -50,10 +50,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-09-18T08:03:40Z",
-                    "open_issues": 50,
+                    "open_issues": 51,
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3141,
+                    "stars": 3142,
                     "topics": [
                       "dfir",
                       "mitre-attack",
@@ -99,7 +99,7 @@
                 "open_issues": 139,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4433,
+                "stars": 4437,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -126,11 +126,11 @@
                 "id": 126576769,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T04:54:43Z",
+                "last_commit": "2026-09-25T22:29:10Z",
                 "open_issues": 77,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4270,
+                "stars": 4274,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -159,7 +159,7 @@
                 "open_issues": 4,
                 "owner": "WithSecureOpenSource",
                 "repo": "chainsaw",
-                "stars": 3671,
+                "stars": 3674,
                 "topics": [
                   "attack",
                   "blueteam",
@@ -197,11 +197,11 @@
                 "id": 77276660,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T04:58:09Z",
+                "last_commit": "2026-09-25T20:48:46Z",
                 "open_issues": 221,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11088,
+                "stars": 11091,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -232,7 +232,7 @@
                 "open_issues": 167,
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 9893,
+                "stars": 9894,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -256,11 +256,11 @@
                 "id": 262044260,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T21:08:38Z",
-                "open_issues": 491,
+                "last_commit": "2026-09-25T19:32:21Z",
+                "open_issues": 492,
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2442,
+                "stars": 2443,
                 "topics": [
                   "automation",
                   "cybersecurity",
@@ -315,7 +315,7 @@
                     "open_issues": 38,
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12578,
+                    "stars": 12582,
                     "topics": [
                       "mitre",
                       "mitre-attack"
@@ -342,11 +342,11 @@
                     "id": 77276660,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-25T04:58:09Z",
+                    "last_commit": "2026-09-25T20:48:46Z",
                     "open_issues": 221,
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 11088,
+                    "stars": 11091,
                     "topics": [
                       "elasticsearch",
                       "ids",
@@ -388,11 +388,11 @@
                 "id": 77276660,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T04:58:09Z",
+                "last_commit": "2026-09-25T20:48:46Z",
                 "open_issues": 221,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11088,
+                "stars": 11091,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -423,7 +423,7 @@
                 "open_issues": 5,
                 "owner": "sbousseaden",
                 "repo": "EVTX-ATTACK-SAMPLES",
-                "stars": 2628,
+                "stars": 2630,
                 "topics": [
                   "dataset",
                   "detection-engineering",
@@ -453,7 +453,7 @@
                 "open_issues": 85,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5578,
+                "stars": 5580,
                 "topics": [
                   "awesome-list",
                   "blue-team",
@@ -482,7 +482,7 @@
                 "open_issues": 1,
                 "owner": "pedramamini",
                 "repo": "awesome-yara",
-                "stars": 4274,
+                "stars": 4275,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -518,7 +518,7 @@
                 "open_issues": 2,
                 "owner": "aboutsecurity",
                 "repo": "blueteam_homelabs",
-                "stars": 947,
+                "stars": 948,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -539,7 +539,7 @@
                 "open_issues": 4,
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4504,
+                "stars": 4506,
                 "topics": [
                   "blue-team",
                   "blueteam",
@@ -570,10 +570,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-03T17:26:43Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "SwiftOnSecurity",
                 "repo": "sysmon-config",
-                "stars": 5658,
+                "stars": 5662,
                 "topics": [
                   "logging",
                   "monitoring",
@@ -603,7 +603,7 @@
                 "open_issues": 38,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12578,
+                "stars": 12582,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -627,7 +627,7 @@
                 "open_issues": 8,
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
-                "stars": 1341,
+                "stars": 1343,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:43:11.219Z",
+    "last_updated": "2026-09-26T06:42:08.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
@@ -654,7 +654,7 @@
       "open_issues": 1,
       "owner": "keraattin",
       "repo": "Blue-Team-Roadmap",
-      "stars": 91,
+      "stars": 92,
       "topics": [
         "awesome-list",
         "beginner-friendly",
