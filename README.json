@@ -99,7 +99,7 @@
                 "open_issues": 137,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4451,
+                "stars": 4452,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -201,7 +201,7 @@
                 "open_issues": 232,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11147,
+                "stars": 11148,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -315,7 +315,7 @@
                     "open_issues": 39,
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12603,
+                    "stars": 12604,
                     "topics": [
                       "mitre",
                       "mitre-attack"
@@ -346,7 +346,7 @@
                     "open_issues": 232,
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 11147,
+                    "stars": 11148,
                     "topics": [
                       "elasticsearch",
                       "ids",
@@ -392,7 +392,7 @@
                 "open_issues": 232,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11147,
+                "stars": 11148,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -603,7 +603,7 @@
                 "open_issues": 39,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12603,
+                "stars": 12604,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:20.602Z",
+    "last_updated": "2026-10-03T07:08:11.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
