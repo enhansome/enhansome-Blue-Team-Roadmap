@@ -53,7 +53,7 @@
                     "open_issues": 52,
                     "owner": "olafhartong",
                     "repo": "sysmon-modular",
-                    "stars": 3187,
+                    "stars": 3186,
                     "topics": [
                       "dfir",
                       "mitre-attack",
@@ -99,7 +99,7 @@
                 "open_issues": 162,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4575,
+                "stars": 4576,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -126,11 +126,11 @@
                 "id": 126576769,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T23:40:14Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-09T07:12:29Z",
+                "open_issues": 72,
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4427,
+                "stars": 4429,
                 "topics": [
                   "digital-forensics",
                   "endpoint-discovery",
@@ -156,10 +156,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-05T23:10:21Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "WithSecureOpenSource",
                 "repo": "chainsaw",
-                "stars": 3710,
+                "stars": 3714,
                 "topics": [
                   "attack",
                   "blueteam",
@@ -197,11 +197,11 @@
                 "id": 77276660,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T01:36:05Z",
-                "open_issues": 326,
+                "last_commit": "2026-11-09T01:21:51Z",
+                "open_issues": 332,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11429,
+                "stars": 11442,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -232,7 +232,7 @@
                 "open_issues": 167,
                 "owner": "VirusTotal",
                 "repo": "yara",
-                "stars": 10000,
+                "stars": 10004,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -260,7 +260,7 @@
                 "open_issues": 496,
                 "owner": "Shuffle",
                 "repo": "Shuffle",
-                "stars": 2474,
+                "stars": 2477,
                 "topics": [
                   "automation",
                   "cybersecurity",
@@ -315,7 +315,7 @@
                     "open_issues": 30,
                     "owner": "redcanaryco",
                     "repo": "atomic-red-team",
-                    "stars": 12788,
+                    "stars": 12798,
                     "topics": [
                       "mitre",
                       "mitre-attack"
@@ -342,11 +342,11 @@
                     "id": 77276660,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-07T01:36:05Z",
-                    "open_issues": 326,
+                    "last_commit": "2026-11-09T01:21:51Z",
+                    "open_issues": 332,
                     "owner": "SigmaHQ",
                     "repo": "sigma",
-                    "stars": 11429,
+                    "stars": 11442,
                     "topics": [
                       "elasticsearch",
                       "ids",
@@ -388,11 +388,11 @@
                 "id": 77276660,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T01:36:05Z",
-                "open_issues": 326,
+                "last_commit": "2026-11-09T01:21:51Z",
+                "open_issues": 332,
                 "owner": "SigmaHQ",
                 "repo": "sigma",
-                "stars": 11429,
+                "stars": 11442,
                 "topics": [
                   "elasticsearch",
                   "ids",
@@ -453,7 +453,7 @@
                 "open_issues": 89,
                 "owner": "fabacab",
                 "repo": "awesome-cybersecurity-blueteam",
-                "stars": 5639,
+                "stars": 5640,
                 "topics": [
                   "awesome-list",
                   "blue-team",
@@ -539,7 +539,7 @@
                 "open_issues": 4,
                 "owner": "A-poc",
                 "repo": "BlueTeam-Tools",
-                "stars": 4681,
+                "stars": 4696,
                 "topics": [
                   "blue-team",
                   "blueteam",
@@ -603,7 +603,7 @@
                 "open_issues": 30,
                 "owner": "redcanaryco",
                 "repo": "atomic-red-team",
-                "stars": 12788,
+                "stars": 12798,
                 "topics": [
                   "mitre",
                   "mitre-attack"
@@ -627,7 +627,7 @@
                 "open_issues": 8,
                 "owner": "LetsDefend",
                 "repo": "SOC-Interview-Questions",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:27.631Z"
@@ -642,7 +642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:04:00.311Z",
+    "last_updated": "2026-11-09T08:43:45.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most comprehensive, step-by-step roadmap for breaking into defensive cybersecurity. From absolute zero to your first Blue Team role. Every skill, tool, certification, and resource you need. No experience required.",
@@ -654,7 +654,7 @@
       "open_issues": 2,
       "owner": "keraattin",
       "repo": "Blue-Team-Roadmap",
-      "stars": 110,
+      "stars": 111,
       "topics": [
         "awesome-list",
         "beginner-friendly",
